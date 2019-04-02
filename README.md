@@ -1,2 +1,2 @@
-# django-it-service
+# django-it-services
 Django intranet per i Servizi Informativi 
